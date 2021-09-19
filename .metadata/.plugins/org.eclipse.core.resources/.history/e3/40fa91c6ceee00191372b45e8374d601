@@ -1,0 +1,19 @@
+//Import package tanda
+package tanda;
+
+public class Ejercicio4 
+{
+	public static void main(String[] args) 
+	{
+		final int DCTO = 20;
+		float Precio;
+		
+		System.out.println("Introduce el precio de tu compra:");
+		Precio = Consola.leeFloat();
+		
+		if (Precio > 100)
+			Precio *= 0.8;
+	
+		System.out.println("La cantidad de dinero a pagar es de " + Precio + " euros.");
+	}
+}

@@ -1,0 +1,10 @@
+//Import package tanda
+package tanda;
+
+public class Ejercicio5 
+{
+	public static void main(String[] args) 
+	{
+		
+	}
+}

@@ -1,0 +1,63 @@
+import java.awt.Button;
+import javax.swing.JFrame;
+
+public class ApuntesT9 extends JFrame
+{
+	public ApuntesT9 ()
+	{
+		Button bot = new Button("Etiqueta botón");
+		getContentPane().add(bot);
+	}
+	
+	/*
+	JDialog()
+		- JDialog(Frame owner)
+		- JDialog(Frame owner, String titulo)
+		- JDialog(Frame owner, String titulo, boolean modal)
+		->	no va ceder el foco a ninguna
+			otra aplicación hasta que se produzca
+			una determinada acción sobre él.
+		- void setVisible(boolean)
+		- void setResizable(boolean)
+		- void setLocation(int,int)
+		- void setModal(boolean)
+		- Container getContentPane( )
+	*/
+	/*
+	JOptionPane 
+		Sus métodos estáticos más habituales son los siguientes:
+		- JOptionPane.showMessageDialog
+		 (null, "Aviso",”Alert",JOptionPane.ERROR_MESSAGE);
+		int opcion_seleccionada=
+		- JOptionPane.showConfirmDialog
+		(null,"Elige","Chooseone",JOptionPane.YES_NO_OPTION)
+		- String inputValue = JOptionPane.showInputDialog
+		 ("Please input a value");
+		- Object[] opc = { "OK", "CANCEL" };
+			JOptionPane.showOptionDialog
+			(null, "Click OK to continue", "Warning",
+			JOptionPane.DEFAULT_OPTION,
+			JOptionPane.WARNING_MESSAGE, null, opc, opc [0]);
+		-Object[] valores = { "First", "Second", "Third" };
+			Object selectedValue =JOptionPane.showInputDialog
+			(null, "Choose one", "Input",
+			JOptionPane.INFORMATION_MESSAGE, null, valores,
+			valores [0])
+	*/
+	
+	public static void main(String[] args)
+	{
+	JFrame ventana= new JFrame();
+	JScrollPane panel1 = new JScrollPane();
+	JTextField jt1 = new JTextField("...”,80);
+	ventana.setTitle("mi programa");
+	ventana.setDefaultCloseOperation
+	(ventana.EXIT_ON_CLOSE);
+	panel1.setViewportView(jt1);
+	panel1.setVerticalScrollBarPolicy
+	(ScrollPaneConstants.VERTICAL_SCROLLBAR_ALWAYS);
+	ventana.getContentPane().add(panel1);
+	ventana.pack();
+	ventana.setVisible(true);
+	}
+}

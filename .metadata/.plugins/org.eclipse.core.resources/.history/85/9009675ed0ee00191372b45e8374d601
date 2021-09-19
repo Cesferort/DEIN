@@ -1,0 +1,18 @@
+//Import package tanda
+package tanda;
+
+public class Ejercicio5 
+{
+	public static void main(String[] args) 
+	{
+		int Peso = 70;
+		char Actividad;
+		
+		do
+		{
+			System.out.println("Introduce el estado, R para reposo y D para dormido:");
+			Actividad = Consola.leeInt();
+		}
+		while(Actividad != 'R') && (Actividad != 'D'); 
+	}
+}

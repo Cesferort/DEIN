@@ -1,0 +1,16 @@
+
+public class Pruebas 
+{
+
+	private static void noHagoNada()
+	{
+		System.out.println("No hago nada");
+	}
+	
+	public static void main(String[] args) 
+	{
+		
+
+	}
+
+}

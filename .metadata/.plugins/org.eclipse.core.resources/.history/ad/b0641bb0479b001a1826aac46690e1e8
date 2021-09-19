@@ -1,0 +1,31 @@
+import java.awt.Button;
+import javax.swing.JFrame;
+
+public class ApuntesT9 extends JFrame
+{
+	public ApuntesT9 ()
+	{
+		Button bot = new Button("Etiqueta botón");
+		getContentPane().add(bot);
+	}
+	
+	/*
+		JDialog()
+		- JDialog(Frame owner)
+		- JDialog(Frame owner, String titulo)
+		- JDialog(Frame owner, String titulo, boolean modal)
+		->	no va ceder el foco a ninguna
+			otra aplicación hasta que se produzca
+			una determinada acción sobre él.
+		- void setVisible(boolean)
+		- void setResizable(boolean)
+		- void setLocation(int,int)
+		- void setModal(boolean)
+		- Container getContentPane( )
+	*/
+	
+	public static void main(String[] args) 
+	{
+		
+	}
+}

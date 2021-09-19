@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;Tema 6 Tanda 3 Ej 43/src&apos;&#x0D;&#x0A;- Original project: &apos;Tema 6 Tanda 3 Ej4&apos;&#x0D;&#x0A;- Destination element: &apos;Tema 6 Tanda 3 Ej 43/src&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     Agenda.java&#x0D;&#x0A;     Consola.java" description="Copy compilation units" destination="=Tema 6 Tanda 3 Ej 43/src" element1="/src&lt;{Agenda.java" element2="/src&lt;{Consola.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1581629434348" units="2" version="1.0"/>
+</session>

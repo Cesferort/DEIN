@@ -1,0 +1,17 @@
+import java.awt.Button;
+
+import javax.swing.JFrame;
+
+public class ApuntesT9 extends JFrame
+{
+	public ApuntesT9 ()
+	{
+		Button bot = new Button("Etiqueta botón");
+		getContentPane().add(bot);
+	}
+	
+	public static void main(String[] args) 
+	{
+		
+	}
+}

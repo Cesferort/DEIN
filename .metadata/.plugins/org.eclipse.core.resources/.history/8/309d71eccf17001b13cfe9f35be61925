@@ -1,0 +1,26 @@
+
+public class Ejemplo2 
+{
+
+	public static void main(String[] args) 
+	{
+		Runtime r = Runtime.getRuntime();
+		String comando = "ls -al";
+		Process p = null;
+		
+		try 
+		{
+			p = r.exec(comando);
+			InputStream is = p.getInputStream();
+			BufferedReader br = new BufferedReader();
+			String linea;
+			while((linea = br.readLine()) != null) //lee una linea
+				System.out.println();
+			br.close();
+		}
+		catch(Exception e)
+		{
+			System.out.println(e.getMessage());
+		}
+	}
+}

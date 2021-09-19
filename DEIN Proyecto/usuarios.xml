@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usuarios>
+  <usuario id="1" esAdmin="S">
+    <nomUsuario>admin</nomUsuario>
+    <conUsuario>admin</conUsuario>
+    <reports>
+      <report fecha="Sun Nov 08 16:13:04 CET 2020">
+        <titulo>Pregunta 1</titulo>
+        <texto>Esto es una puta mierda.</texto>
+      </report>
+      <report fecha="Sun Nov 08 16:14:04 CET 2020">
+        <titulo>Pregunta 2</titulo>
+        <texto>Sigue siendo una mierda.</texto>
+      </report>
+    </reports>
+  </usuario>
+  <usuario id="2" esAdmin="N">
+    <nomUsuario>Cesar</nomUsuario>
+    <conUsuario>dm2</conUsuario>
+  </usuario>
+  <usuario id="3" esAdmin="N">
+    <nomUsuario>Prueba</nomUsuario>
+    <conUsuario>prueba</conUsuario>
+  </usuario>
+  <usuario id="4" esAdmin="S">
+    <nomUsuario>Pruedadasdba2</nomUsuario>
+    <conUsuario>dsadas</conUsuario>
+  </usuario>
+  <usuario id="5" esAdmin="N">
+    <nomUsuario>DeSuperPutaMadreSocio</nomUsuario>
+    <conUsuario>dm2Dm2</conUsuario>
+  </usuario>
+</usuarios>

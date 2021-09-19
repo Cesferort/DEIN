@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="E:\asdass"/>
+	</list>
+	<list key="installedFeatures">
+		<item value="org.eclipse.buildship:3.1.4.v20200326-1743"/>
+		<item value="org.eclipse.egit.mylyn:5.9.0.202009080501-r"/>
+		<item value="org.eclipse.egit.source:5.9.0.202009080501-r"/>
+		<item value="org.eclipse.egit:5.9.0.202009080501-r"/>
+		<item value="org.eclipse.emf.common:2.20.0.v20200822-0801"/>
+		<item value="org.eclipse.emf.ecore:2.23.0.v20200630-0516"/>
+		<item value="org.eclipse.epp.mpc:1.8.4.v20200709-0857"/>
+		<item value="org.eclipse.jgit.gpg.bc:5.9.0.202009080501-r"/>
+		<item value="org.eclipse.jgit.http.apache:5.9.0.202009080501-r"/>
+		<item value="org.eclipse.jgit.ssh.apache:5.9.0.202009080501-r"/>
+		<item value="org.eclipse.jgit.ssh.jsch:5.9.0.202009080501-r"/>
+		<item value="org.eclipse.jgit:5.9.0.202009080501-r"/>
+		<item value="org.eclipse.m2e.feature:1.16.1.20200710-1008"/>
+		<item value="org.eclipse.m2e.logback.feature:1.16.0.20200318-1040"/>
+		<item value="org.eclipse.mylyn.bugzilla_feature:3.25.2.v20200814-0512"/>
+		<item value="org.eclipse.mylyn.builds:1.17.0.v20200828-1656"/>
+		<item value="org.eclipse.mylyn.commons.identity:1.17.2.v20200813-0821"/>
+		<item value="org.eclipse.mylyn.commons.notifications:1.17.2.v20200813-0821"/>
+		<item value="org.eclipse.mylyn.commons.repositories.http:1.17.2.v20200813-0821"/>
+		<item value="org.eclipse.mylyn.commons.repositories:1.17.2.v20200813-0821"/>
+		<item value="org.eclipse.mylyn.commons:3.25.2.v20200813-0821"/>
+		<item value="org.eclipse.mylyn.context_feature:3.25.2.v20200828-1617"/>
+		<item value="org.eclipse.mylyn.discovery:3.25.2.v20200813-0821"/>
+		<item value="org.eclipse.mylyn.git:1.17.0.v20191002-0716"/>
+		<item value="org.eclipse.mylyn.hudson:1.17.0.v20200730-1155"/>
+		<item value="org.eclipse.mylyn.ide_feature:3.25.2.v20200828-1617"/>
+		<item value="org.eclipse.mylyn.java_feature:3.25.2.v20200828-1617"/>
+		<item value="org.eclipse.mylyn.monitor:3.25.2.v20200813-0821"/>
+		<item value="org.eclipse.mylyn.tasks.ide:3.25.2.v20200814-0512"/>
+		<item value="org.eclipse.mylyn.team_feature:3.25.2.v20200828-1617"/>
+		<item value="org.eclipse.mylyn.versions:1.17.0.v20191002-0716"/>
+		<item value="org.eclipse.mylyn.wikitext.editors_feature:3.0.38.202008172112"/>
+		<item value="org.eclipse.mylyn.wikitext_feature:3.0.38.202008172112"/>
+		<item value="org.eclipse.mylyn_feature:3.25.2.v20200814-0512"/>
+		<item value="org.eclipse.oomph.p2:1.17.0.v20200820-0414"/>
+		<item value="org.eclipse.oomph.setup.core:1.18.0.v20200901-1012"/>
+		<item value="org.eclipse.oomph.setup:1.18.0.v20200901-1012"/>
+		<item value="org.eclipse.pde:3.14.200.v20191210-0610"/>
+		<item value="org.eclipse.platform:4.17.0.v20200902-1800"/>
+		<item value="org.eclipse.rcp:4.17.0.v20200902-1800"/>
+		<item value="org.eclipse.userstorage:1.2.0.v20191120-1614"/>
+		<item value="org.eclipse.wb.core.feature:1.9.4.202009181620"/>
+		<item value="org.eclipse.wb.doc.user.feature:1.9.4.202009181620"/>
+		<item value="org.eclipse.wb.rcp.doc.user.feature:1.9.4.202009181620"/>
+		<item value="org.eclipse.wb.swing.doc.user.feature:1.9.4.202009181620"/>
+		<item value="org.eclipse.wst.xml_ui.feature:3.19.0.v202008192217"/>
+		<item value="org.python.pydev.feature.source:8.0.0.202009061309"/>
+		<item value="org.python.pydev.feature:8.0.0.202009061309"/>
+	</list>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="658"/>
+		<item key="DIALOG_Y_ORIGIN" value="341"/>
+	</section>
+	<section name="SaveAsDialogSettings">
+		<item key="DIALOG_WIDTH" value="525"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+		<item key="DIALOG_HEIGHT" value="580"/>
+		<item key="DIALOG_X_ORIGIN" value="706"/>
+		<item key="DIALOG_Y_ORIGIN" value="142"/>
+	</section>
+</section>

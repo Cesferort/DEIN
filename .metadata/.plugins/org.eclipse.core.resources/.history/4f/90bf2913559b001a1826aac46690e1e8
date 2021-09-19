@@ -1,0 +1,65 @@
+import java.awt.FlowLayout;
+
+import javax.swing.BorderFactory;
+import javax.swing.ButtonGroup;
+import javax.swing.JButton;
+import javax.swing.JCheckBox;
+import javax.swing.JFrame;
+import javax.swing.JLabel;
+import javax.swing.JPanel;
+import javax.swing.JRadioButton;
+import javax.swing.JTextField;
+import javax.swing.border.EtchedBorder;
+
+public class DatosVentana3 extends JFrame
+{
+	private JTextField txtNombre;
+	private JTextField txtApellidos;
+	private JRadioButton radH;
+	private JRadioButton radM;
+	private JButton	butAniadir;
+	
+	private JCheckBox[] chkActividades;
+	private final static String[] ACTIVIDADES= {"Lectura","Cine","Deporte","Ajedrez","Musica"};
+	
+	public DatosVentana3() 
+	{
+		//INSTANCIAR COMPONENTES
+		this.setTitle("TUS DATOS");
+		this.setLayout(new FlowLayout());
+		
+		txtNombre=new JTextField(10);
+		txtApellidos=new JTextField(10);
+		radH=new JRadioButton("Hombre");
+		radM=new JRadioButton("Mujer");
+		ButtonGroup grupoRadios=new ButtonGroup();
+		grupoRadios.add(radH);
+		grupoRadios.add(radM);
+		butAniadir=new JButton("AÑADIR");
+		
+		chkActividades=new JCheckBox[ACTIVIDADES.length];
+		for(int i=0;i<chkActividades.length;i++)
+			chkActividades[i]=new JCheckBox(ACTIVIDADES[i]);
+		
+		//PANELES
+		JPanel panNomApell=new JPanel();
+		panNomApell.add(new JLabel("Nombre"));
+		panNomApell.add(txtNombre);
+		panNomApell.add(new JLabel("Apellidos"));
+		panNomApell.add(txtApellidos);
+		
+		JPanel panSexo=new JPanel();
+		panSexo.add(radH);
+		panSexo.add(radM);
+		
+		JPanel panActividades=new JPanel();
+		panActividades.setBorder(BorderFactory.createEtchedBorder(EtchedBorder.RAISED));
+		for(int i=0;i<chkActividades.length;i++)
+			panActividades.add(chkActividades[i]);
+	}
+	
+	public static void main(String[] args) 
+	{
+		DatosVentana3 a=new DatosVentana3();
+	}
+}

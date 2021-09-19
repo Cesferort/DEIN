@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/Tema 6 Tanda 1 Ej9/src/ej9.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="ej9"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="Tema 6 Tanda 1 Ej9"/>
+</launchConfiguration>
