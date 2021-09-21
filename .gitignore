@@ -1,6 +1,6 @@
 */doc/*
-*/.metadata/*
-*/.recommenders/*
+.metadata/*
+.recommenders/*
 *.class
 *.classpath
 *.project
