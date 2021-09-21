@@ -1,0 +1,7 @@
+*/doc/*
+*/.metadata/*
+*/.recommenders/*
+*.class
+*.classpath
+*.project
+*.settings

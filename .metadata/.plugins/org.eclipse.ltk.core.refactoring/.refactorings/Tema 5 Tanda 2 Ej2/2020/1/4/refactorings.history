@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Copy 2 elements to &apos;Tema 6 Tanda 1 EjA_10/src/(default package)&apos;&#x0D;&#x0A;- Original project: &apos;Tema 5 Tanda 2 Ej2&apos;&#x0D;&#x0A;- Destination element: &apos;Tema 6 Tanda 1 EjA_10/src/(default package)&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     Directorio.java&#x0D;&#x0A;     PruebaDirectorio.java" description="Copy compilation units" destination="=Tema 6 Tanda 1 EjA_10/src&lt;" element1="/src&lt;{Directorio.java" element2="/src&lt;{PruebaDirectorio.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1579637254097" units="2" version="1.0"/>
-</session>

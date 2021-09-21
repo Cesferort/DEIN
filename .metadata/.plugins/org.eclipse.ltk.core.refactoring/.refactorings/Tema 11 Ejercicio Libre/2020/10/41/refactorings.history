@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Copy element &apos;GestorXML.java&apos; to &apos;DEIN Proyecto/src/XML&apos;&#x0D;&#x0A;- Original project: &apos;Tema 11 Ejercicio Libre&apos;&#x0D;&#x0A;- Destination element: &apos;DEIN Proyecto/src/XML&apos;&#x0D;&#x0A;- Original element: &apos;XML.GestorXML.java&apos;" description="Copy compilation unit" destination="=DEIN Proyecto/src&lt;XML" element1="/src&lt;XML{GestorXML.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1602016490885" units="1" version="1.0"/>
-</session>

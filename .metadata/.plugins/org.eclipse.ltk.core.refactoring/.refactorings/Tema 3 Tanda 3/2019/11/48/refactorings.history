@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Copy element &apos;Consola.java&apos; to &apos;SerieExamen/src/(default package)&apos;&#x0D;&#x0A;- Original project: &apos;Tema 3 Tanda 3&apos;&#x0D;&#x0A;- Destination element: &apos;SerieExamen/src/(default package)&apos;&#x0D;&#x0A;- Original element: &apos;tanda3.Consola.java&apos;" description="Copy compilation unit" destination="=SerieExamen/src&lt;" element1="/src&lt;tanda3{Consola.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1574872020482" units="1" version="1.0"/>
-</session>

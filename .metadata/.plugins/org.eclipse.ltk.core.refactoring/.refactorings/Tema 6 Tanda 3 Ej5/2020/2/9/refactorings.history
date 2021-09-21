@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Copy 4 elements to &apos;X/src&apos;&#x0D;&#x0A;- Original project: &apos;Tema 6 Tanda 3 Ej5&apos;&#x0D;&#x0A;- Destination element: &apos;X/src&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     Cocinero.java&#x0D;&#x0A;     Plato.java&#x0D;&#x0A;     Consola.java&#x0D;&#x0A;     Ingrediente.java" description="Copy compilation units" destination="=X/src" element1="/src&lt;{Cocinero.java" element2="/src&lt;{Plato.java" element3="/src&lt;{Consola.java" element4="/src&lt;{Ingrediente.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1582628208592" units="4" version="1.0"/>
-</session>

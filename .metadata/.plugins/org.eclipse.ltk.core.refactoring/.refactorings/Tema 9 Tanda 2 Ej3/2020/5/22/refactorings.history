@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Copy 7 elements to &apos;img&apos;&#x0D;&#x0A;- Original project: &apos;Tema 9 Tanda 2 Ej3&apos;&#x0D;&#x0A;- Destination element: &apos;img&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     Talos Principle.jpg&#x0D;&#x0A;     DOOM Eternal.jpg&#x0D;&#x0A;     CS GO.jpg&#x0D;&#x0A;     Shadow of the Colossus.jpg&#x0D;&#x0A;     Journey.jpg&#x0D;&#x0A;     Blood Dragon.jpg&#x0D;&#x0A;     Zelda Windwaker.jpg" description="Copy files" element1="img/Talos Principle.jpg" element2="img/DOOM Eternal.jpg" element3="img/CS GO.jpg" element4="img/Shadow of the Colossus.jpg" element5="img/Journey.jpg" element6="img/Blood Dragon.jpg" element7="img/Zelda Windwaker.jpg" files="7" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1590430251111" target="/Tema 9 Tanda 4 Ej3/img" units="0" version="1.0"/>
-</session>
